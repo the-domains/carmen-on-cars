@@ -1,29 +1,29 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Rolls-Royce Dawn review — Million air
-datePublished: '2016-04-05T08:44:56.759Z'
-dateModified: '2016-04-05T08:43:43.735Z'
+description: 'CAPE TOWN, SOUTH AFRICA — The sun does its thing pretty merrily down on the South African coast, beaming fervently on a landscape sculpted to perfection by celestial hands.'
+datePublished: '2016-04-05T09:21:32.525Z'
+dateModified: '2016-04-05T09:21:17.843Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-rolls-royce-dawn-review-million-air.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-rolls-royce-dawn-review-million-air.md
-published: true
 url: rolls-royce-dawn-review-million-air/index.html
 _type: Article
 
 ---
-Rolls-Royce Dawn review --- Million air
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da368d83-cbd3-400c-af3f-4af352718a7b.jpg)
+## Rolls-Royce Dawn --- Million air
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cec84b35-9a68-4336-a658-b39055cf7778.jpg)
 
 CAPE TOWN, SOUTH AFRICA --- The sun does its thing pretty merrily down on the South African coast, beaming fervently on a landscape sculpted to perfection by celestial hands.
 
@@ -93,6 +93,7 @@ When the Queen of England shows up at an event, people talk about her royal bloo
 The Dawn is a bit like that; even though you have to be wealthy enough for other rich people to consider you properly rich to buy one, it somehow transcends mere showiness.
 
 It might seem like folly to drop $1.5 million on a car, but if you have the means to do it, it seems just as silly not to grant yourself a Dawn. They say there is no use being in heaven if your money is down on earth, but owning a Dawn means bringing a slice of paradise into your world.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edea0d40-83c4-4456-868d-7137b0d9fae7.jpg)
 
 **NEED TO KNOW** Rolls-Royce Dawn **Engine** 6.6-litre, 48-valve, twin-turbo V12 **Power** 570hp at 5250rpm
 **Torque** 780Nm at 1500rpm
