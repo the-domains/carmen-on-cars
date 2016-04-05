@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[Carmen On Cars]]></title>
         <description><![CDATA[Carmen On Cars]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carmen-on-cars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 08:45:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 09:15:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carmen-on-cars/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michelle Rodriguez, I hate you]]></title>
+            <description><![CDATA[<article><h1>Michelle Rodriguez, I hate you</h1><p>I DON’T KNOW if Michelle Rodriquez is furious (or even mildly annoyed), but she’s fast. In fact there’s a good chance she’s faster than you.
+
+Driving the new Jaguar F-Type SVR on a closed road in Nevada, the Fast and Furious actress saw 201mph on the clock.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02dd55ce-2870-4f56-9b8c-024bac51b622.jpg"></article>]]></description>
+            <link>https://thegrid.ai/carmen-on-cars/790de110-e7b4-4356-88ce-d1d55d827998/index.html</link>
+            <guid isPermaLink="false">790de110-e7b4-4356-88ce-d1d55d827998</guid>
+            <pubDate>Tue, 05 Apr 2016 09:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da368d83-cbd3-400c-af3f-4af352718a7b.jpg">]]></description>
-            <link>undefinedrolls-royce-dawn-review-million-air/index.html</link>
+            <link>https://thegrid.ai/carmen-on-cars/rolls-royce-dawn-review-million-air/index.html</link>
             <guid isPermaLink="false">6100f0d9-d06b-4c1f-a81c-b34d52b92ae8</guid>
             <pubDate>Tue, 05 Apr 2016 08:44:56 GMT</pubDate>
         </item>
